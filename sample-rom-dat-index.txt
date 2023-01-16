@@ -1,0 +1,319 @@
+Acorn - Archimedes (MFMBitstreams) (20221216-133324).dat
+Acorn - Archimedes (SectorDumps) (20221216-133324).dat
+Acorn - Atom (Tapes) (20221217-113309).dat
+Acorn - Risc PC (FluxDumps) (20221218-172551).dat
+Acorn RISC OS - Flash Media (Misc) (20221123-054527).dat
+ACT - Apricot PC Xi (20211125-165629).dat
+Amstrad - CPC (FluxDumps) (20221006-003253).dat
+Amstrad - CPC (Misc) (20221006-003253).dat
+Analogue - Analogue Pocket (20230108-023206).dat
+APF - Imagination Machine (20220416-042756).dat
+APF - MP-1000 (20211213-125803).dat
+Apple - I (Tapes) (20220725-213829).dat
+Apple - II (A2R) (20220728-095306).dat
+Apple - II (Waveform) (20220728-095306).dat
+Apple - II (WOZ) (20220728-095306).dat
+Apple - II Plus (Flux) (20211227-061630).dat
+Apple - II Plus (WOZ) (20211227-061630).dat
+Apple - IIe (A2R) (20220718-130608).dat
+Apple - IIe (Kryoflux) (20220718-130608).dat
+Apple - IIe (WOZ) (20220718-130608).dat
+Apple - IIGS (A2R) (20220727-120719).dat
+Apple - IIGS (WOZ) (20220727-120719).dat
+Apple - Macintosh (A2R) (20220727-190526).dat
+Apple - Macintosh (DC42) (20220727-190526).dat
+Apple - Macintosh (KryoFlux) (20220727-190526).dat
+Apple - Macintosh (Uncategorized) (20220727-190526).dat
+Apple - Macintosh (WOZ) (20220727-190526).dat
+Apple - Macintosh (BETA) (Bitstreams) (20220831-024638).dat
+Apple - Macintosh (BETA) (FluxDumps) (20220831-024638).dat
+Apple-Bandai - Pippin (Floppies) (20220623-041333).dat
+Atari - 2600 (20221220-000803).dat
+Atari - 5200 (20220405-183755).dat
+Atari - 7800 (20220714-205237).dat
+Atari - 8-bit Family (20220827-182112).dat
+Atari - 8-bit Family (Kryoflux) (20220827-182112).dat
+Atari - Jaguar (J64) (20230101-192143).dat
+Atari - Jaguar (ROM) (20230101-192143).dat
+Atari - Lynx (20220513-205052).dat
+Atari - ST (20220506-114836).dat
+Atari - ST (#408).dat
+Atari - ST (Flux) (20220506-114836).dat
+Atari - ST (Flux) (#408).dat
+Bally - Astrocade (20220411-220423).dat
+Bally - Astrocade (Tapes) (20220914-145554).dat
+Bally - Astrocade (Tapes) (WAV) (20220914-145554).dat
+Bandai - Design Master Denshi Mangajuku (20211124-132745).dat
+Bandai - Gundam RX-78 (20211124-013520).dat
+Bandai - WonderSwan (20221126-032041).dat
+Bandai - WonderSwan Color (20221117-023701).dat
+Benesse - Pocket Challenge V2 (20220624-111723).dat
+Benesse - Pocket Challenge W (20221211-062513).dat
+Bit Corporation - Gamate (20220320-145154).dat
+Casio - Loopy (20220312-141401).dat
+Casio - PV-1000 (20200109-103603).dat
+Coleco - ColecoVision (20230113-234533).dat
+Commodore - Amiga (20220712-143036).dat
+Commodore - Amiga (#3149+x073).dat
+Commodore - Amiga (Flux) (20220712-143036).dat
+Commodore - Amiga (Flux) (#3149+x073).dat
+Commodore - Commodore 64 (20220524-092648).dat
+Commodore - Commodore 64 (PP) (20131204-081826).dat
+Commodore - Commodore 64 (Tapes) (20210216-231940).dat
+Commodore - Plus-4 (20090105-000000).dat
+Commodore - VIC-20 (20170315-223700).dat
+Emerson - Arcadia 2001 (20081124-193319).dat
+Entex - Adventure Vision (20081125-031450).dat
+Epoch - Game Pocket Computer (20211122-141248).dat
+Epoch - Super Cassette Vision (20201123-013546).dat
+Fairchild - Channel F (20120223-000000).dat
+Fujitsu - FM Towns (KryoFlux) (20220726-033401).dat
+Fujitsu - FM-7 (Flux) (20220726-081506).dat
+Fujitsu - FM-7 (Waveform) (20220726-081506).dat
+Fujitsu - FMR50 (Flux) (20220302-115934).dat
+Fukutake Publishing - StudyBox (20200113-140743).dat
+Funtech - Super Acan (20200111-044109).dat
+GamePark - GP2X (20220107-115126).dat
+GamePark - GP32 (20100224-080928).dat
+GCE - Vectrex (20170908-211236).dat
+Hartung - Game Master (20211012-064712).dat
+Hitachi - S1 (Waveform) (20220730-205828).dat
+IBM - PC and Compatibles (IPF) (20220729-101656).dat
+IBM - PC and Compatibles (IPF) (#516).dat
+IBM - PC and Compatibles (KryoFlux) (20220729-101656).dat
+IBM - PC and Compatibles (KryoFlux) (#516).dat
+IBM - PC and Compatibles (KryoFluxWIP) (20220729-101656).dat
+IBM - PC and Compatibles (KryoFluxWIP) (#516).dat
+IBM - PC and Compatibles (LooseFilesArchive) (20220729-101656).dat
+IBM - PC and Compatibles (LooseFilesArchive) (#516).dat
+IBM - PC and Compatibles (SCP) (20220729-101656).dat
+IBM - PC and Compatibles (SCP) (#516).dat
+IBM - PC and Compatibles (Digital) (Desura) (20221021-053646).dat
+IBM - PC and Compatibles (Digital) (Groupees) (20220803-071205).dat
+IBM - PC and Compatibles (Digital) (JAST USA) (20220607-112544).dat
+IBM - PC and Compatibles (Digital) (Misc) (20221021-091325).dat
+IBM - PC and Compatibles (Digital) (Misc) (Hentai) (20220717-123500).dat
+IBM - PC and Compatibles (Digital) (Steam) (Hentai) (20220716-020531).dat
+IBM - PC and Compatibles (Digital) (Unknown) (20220709-010657).dat
+IBM - PC and Compatibles (Digital) (Updates and DLC) (20221207-104837).dat
+IBM - PC and Compatibles (Digital) (Updates and DLC) (#136).dat
+IBM - PC and Compatibles (Flash Media) (20221015-194336).dat
+Interton - VC 4000 (20211122-135810).dat
+iQue - iQue (CDN) (20221116-180820).dat
+iQue - iQue (Decrypted) (20221116-180820).dat
+Konami - Picno (20201121-052249).dat
+LeapFrog - LeapPad (20190401-035314).dat
+LeapFrog - Leapster Learning Game System (20190311-121012).dat
+Luxor - ABC 800 (Flux) (20220712-142738).dat
+Magnavox - Odyssey 2 (20200720-221603).dat
+Mattel - Intellivision (20230113-234108).dat
+Microsoft - MSX (20221022-011122).dat
+Microsoft - MSX2 (20221022-005429).dat
+Microsoft - Xbox (Development Kit Hard Drives) (20220907-035800).dat
+Microsoft - Xbox 360 (Development Kit Hard Drives) (20220831-055825).dat
+Microsoft - Xbox 360 (Digital) (20220625-060028).dat
+Microsoft - Xbox One (Digital) (20220706-215821).dat
+Milton-Bradley - Omni (Waveform) (20220725-135133).dat
+Mobile - J2ME (20230115-110814).dat
+Mobile - Palm OS (20220725-121548).dat
+Mobile - Palm OS (Digital) (20221220-003002).dat
+Mobile - Pocket PC (20220725-120454).dat
+Mobile - Pocket PC (Digital) (20221220-122641).dat
+Mobile - Symbian (20220516-232715).dat
+NEC - PC Engine - TurboGrafx 16 (20230113-233445).dat
+NEC - PC Engine SuperGrafx (20210905-042020).dat
+NEC - PC-88 (Flux) (20220725-151518).dat
+NEC - PC-88 (KryoFlux) (20220725-151518).dat
+NEC - PC-98 (20221116-190533).dat
+NEC - PC-98 (Flux) (20221116-190533).dat
+NEC - PC-98 (Greaseweazle) (20221116-190533).dat
+NEC - PC-98 (HardDisk) (20221116-190533).dat
+NEC - PC-98 (Uncategorized) (20221116-190533).dat
+Nichibutsu - My Vision (20211122-121019).dat
+Nintendo - amiibo (20211113-040458).dat
+Nintendo - Family BASIC (Tapes) (20220915-150147).dat
+Nintendo - Family Computer Disk System (FDS) (20230101-132110).dat
+Nintendo - Family Computer Disk System (QD) (20230101-132110).dat
+Nintendo - Family Computer Network System (20220516-232939).dat
+Nintendo - Game & Watch (20211228-075857).dat
+Nintendo - Game Boy (20230115-121607).dat
+Nintendo - Game Boy Advance (20230113-113409).dat
+Nintendo - Game Boy Advance (#2938+x442).dat
+Nintendo - Game Boy Advance (e-Reader) (20220919-113007).dat
+Nintendo - Game Boy Advance (Multiboot) (20220808-164416).dat
+Nintendo - Game Boy Advance (Video) (20221119-062540).dat
+Nintendo - Game Boy Advance (Video) (#43).dat
+Nintendo - Game Boy Color (20230115-024441).dat
+Nintendo - Kiosk Video Compact Flash (CardImage) (20211208-080301).dat
+Nintendo - Kiosk Video Compact Flash (Extracted) (20211208-080301).dat
+Nintendo - Mario no Photopi SmartMedia (20210514-090046).dat
+Nintendo - Misc (20221127-011534).dat
+Nintendo - New Nintendo 3DS (Decrypted) (20220803-160257).dat
+Nintendo - New Nintendo 3DS (Decrypted) (#10+z002).dat
+Nintendo - New Nintendo 3DS (Encrypted) (20220803-160257).dat
+Nintendo - New Nintendo 3DS (Encrypted) (#10+z002).dat
+Nintendo - New Nintendo 3DS (Digital) (Deprecated) (20211118-112910).dat
+Nintendo - New Nintendo 3DS (Digital) (Deprecated) (#18+z106).dat
+Nintendo - Nintendo 3DS (Decrypted) (20230115-043559).dat
+Nintendo - Nintendo 3DS (Decrypted) (#1863+x062+z099).dat
+Nintendo - Nintendo 3DS (Encrypted) (20230115-043559).dat
+Nintendo - Nintendo 3DS (Encrypted) (#1863+x062+z099).dat
+Nintendo - Nintendo 3DS (Digital) (CDN) (20221224-003031).dat
+Nintendo - Nintendo 3DS (Digital) (Deprecated) (20211116-092247).dat
+Nintendo - Nintendo 3DS (Digital) (Deprecated) (#609+z367).dat
+Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (20220409-104434).dat
+Nintendo - Nintendo 3DS (Digital) (Pre-Install) (20220704-084112).dat
+Nintendo - Nintendo 64 (BigEndian) (20230114-063942).dat
+Nintendo - Nintendo 64 (ByteSwapped) (20230114-063942).dat
+Nintendo - Nintendo 64DD (20211019-130556).dat
+Nintendo - Nintendo DS (Decrypted) (20230115-063258).dat
+Nintendo - Nintendo DS (Decrypted) (#6769+x216+z376).dat
+Nintendo - Nintendo DS (Encrypted) (20230115-063258).dat
+Nintendo - Nintendo DS (Encrypted) (#6769+x216+z376).dat
+Nintendo - Nintendo DS (Download Play) (20230109-033433).dat
+Nintendo - Nintendo DS (DSvision SD cards) (20221023-022924).dat
+Nintendo - Nintendo DS (DSvision SD cards) (#8).dat
+Nintendo - Nintendo DSi (Decrypted) (20221120-044114).dat
+Nintendo - Nintendo DSi (Decrypted) (#12+z010).dat
+Nintendo - Nintendo DSi (Encrypted) (20221120-044114).dat
+Nintendo - Nintendo DSi (Encrypted) (#12+z010).dat
+Nintendo - Nintendo DSi (Digital) (20220506-190731).dat
+Nintendo - Nintendo DSi (Digital) (#1069).dat
+Nintendo - Nintendo DSi (Digital) (CDN) (Decrypted) (20221208-001411).dat
+Nintendo - Nintendo DSi (Digital) (CDN) (Decrypted) (#1725).dat
+Nintendo - Nintendo DSi (Digital) (CDN) (Encrypted) (20221208-001411).dat
+Nintendo - Nintendo DSi (Digital) (CDN) (Encrypted) (#1725).dat
+Nintendo - Nintendo Entertainment System (Headered) (20230114-142615).dat
+Nintendo - Nintendo Entertainment System (Headerless) (20230114-142615).dat
+Nintendo - Nintendo GameCube (NPDP Carts) (20220702-071051).dat
+Nintendo - Play-Yan (20210113-092936).dat
+Nintendo - Pokemon Mini (20220215-223058).dat
+Nintendo - Satellaview (20230113-123016).dat
+Nintendo - Sufami Turbo (20210517-221304).dat
+Nintendo - Super Nintendo Entertainment System (20230115-024709).dat
+Nintendo - Virtual Boy (20221205-224514).dat
+Nintendo - Wii (Digital) (CDN) (20230102-172330).dat
+Nintendo - Wii U (Digital) (CDN) (20221003-171553).dat
+Nintendo - Wii U (Digital) (CDN) (Dev) (20220718-071500).dat
+Nintendo - Wii U (Digital) (CDN) (Lotcheck) (20220718-071500).dat
+Nokia - N-Gage (WIP) (20220220-020303).dat
+Non-Redump - Apple-Bandai - Pippin (20221104-101233).dat
+Non-Redump - Atari - Atari Jaguar CD (20221104-083106).dat
+Non-Redump - Audio CD (20220829-160253).dat
+Non-Redump - Audio CD (Deprecated) (20220829-160253).dat
+Non-Redump - BD-Video (20220815-112229).dat
+Non-Redump - DVD-Video (20220706-060943).dat
+Non-Redump - IBM - PC Compatible (Discs) (20221221-055954).dat
+Non-Redump - IBM - PC Compatible (Discs) (Hentai) (20220716-083906).dat
+Non-Redump - Konami - Python 2 (20220802-223747).dat
+Non-Redump - Microsoft - Pocket PC (20220804-183255).dat
+Non-Redump - Microsoft - Xbox (20220630-093513).dat
+Non-Redump - Microsoft - Xbox 360 (20221104-114308).dat
+Non-Redump - Microsoft - Xbox Series X (20221206-081905).dat
+Non-Redump - NEC - PC Engine CD + TurboGrafx CD (20220701-135416).dat
+Non-Redump - Nintendo - Nintendo GameCube (20221126-080025).dat
+Non-Redump - Nintendo - Wii (20221127-074509).dat
+Non-Redump - Panasonic - 3DO Interactive Multiplayer (20220701-135237).dat
+Non-Redump - Philips - CD-i (20221207-080343).dat
+Non-Redump - Sega - ALLS (20220802-204142).dat
+Non-Redump - Sega - Dreamcast (20230104-054006).dat
+Non-Redump - Sega - Sega Mega CD + Sega CD (20220707-224859).dat
+Non-Redump - Sega - Sega Saturn (20221104-092247).dat
+Non-Redump - Sony - PlayStation (20221203-121618).dat
+Non-Redump - Sony - PlayStation 2 (20221104-093717).dat
+Non-Redump - Sony - PlayStation Portable (20230113-134731).dat
+Non-Redump - Sony - PlayStation Portable (#3321+x063+z096).dat
+Non-Redump - Sony Electronic Book (20220904-095458).dat
+Non-Redump - Super Audio CD (20220430-121741).dat
+Non-Redump - ZAPiT Games - Game Wave Family Entertainment System (20220607-132225).dat
+Ouya - Ouya (20200720-221834).dat
+Philips - Videopac+ (20120223-000000).dat
+RCA - Studio II (20200201-121822).dat
+Sanyo - MBC-550 (Flux) (20220720-120725).dat
+Sega - 32X (20220522-112342).dat
+Sega - Beena (20200127-135209).dat
+Sega - Dreamcast (Development Kit Hard Drives) (20230104-093851).dat
+Sega - Dreamcast (Visual Memory Unit) (20230103-091559).dat
+Sega - Game Gear (20230111-113946).dat
+Sega - Master System - Mark III (20230102-201943).dat
+Sega - Mega Drive - Genesis (20230115-010423).dat
+Sega - PICO (20221223-055717).dat
+Sega - SG-1000 (20230111-110938).dat
+Seta - Aleck64 (BigEndian) (20220513-040448).dat
+Seta - Aleck64 (ByteSwapped) (20220513-040448).dat
+Sharp - MZ-2200 (Waveform) (20220726-061910).dat
+Sharp - MZ-700 (Waveform) (20220724-142320).dat
+Sharp - X1 (Waveform) (20220720-115236).dat
+Sharp - X68000 (Flux) (20220302-051218).dat
+Sinclair - ZX Spectrum +3 (20161210-235900).dat
+Sinclair - ZX Spectrum +3 (#130).dat
+SNK - Neo Geo Pocket (20220704-094813).dat
+SNK - Neo Geo Pocket Color (20230114-210202).dat
+Sony - PlayStation (PS one Classics) (PSN) (20220402-020621).dat
+Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted) (20220831-060008).dat
+Sony - PlayStation 3 (PSN) (Content) (20230113-164500).dat
+Sony - PlayStation 3 (PSN) (Updates) (20221116-123136).dat
+Sony - PlayStation Mobile (PSN) (20200524-163740).dat
+Sony - PlayStation Portable (PSN) (Encrypted) (20221017-202423).dat
+Sony - PlayStation Vita (PSN) (Content) (20220715-104102).dat
+Sony - PlayStation Vita (PSN) (Updates) (20220716-054437).dat
+Source Code - Apple - II (20230107-005706).dat
+Source Code - Apple - IIGS (20211204-095754).dat
+Source Code - Arcade (20230112-175303).dat
+Source Code - Atari - 2600 (20220406-030534).dat
+Source Code - Atari - 8-bit Family (20230107-012326).dat
+Source Code - IBM - PC and Compatibles (20230107-010145).dat
+Source Code - Mobile - Palm OS (20220805-104242).dat
+Source Code - Nintendo - Game Boy Advance (20230107-011927).dat
+Source Code - Nintendo - Nintendo - Game Boy Color (20230107-011902).dat
+Source Code - Nintendo - Nintendo DS (20220204-041058).dat
+Source Code - Nintendo - Nintendo Entertainment System (20230107-011201).dat
+Source Code - Nintendo - Nintendo GameCube (20220309-093302).dat
+Source Code - Nintendo - Super Nintendo Entertainment System (20230107-012046).dat
+Source Code - Sega - DreamCast (20230107-012643).dat
+Source Code - Various (20230112-193559).dat
+Source Code - VM Labs - NUON (20220609-185850).dat
+TeleNova - Compis (Flux) (20220712-150738).dat
+Texas Instruments - TI-99-4A (A2R) (20221123-054417).dat
+Tiger - Game.com (20221031-184634).dat
+Toshiba - Pasopia (BIN) (20220726-115432).dat
+Toshiba - Pasopia (WAV) (20220726-115432).dat
+Toshiba - Visicom (20200202-120958).dat
+Unofficial - Microsoft - Xbox 360 (Title Updates) (20220623-103723).dat
+Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted) (20220418-004956).dat
+Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted) (20220418-004956).dat
+Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD) (20220705-132507).dat
+Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD) (20190825-031431).dat
+Unofficial - Nintendo - Wii U (Digital) (Deprecated) (20191222-002825).dat
+Unofficial - Nintendo - Wii U (Digital) (Deprecated) (#142).dat
+Unofficial - Sony - PlayStation 3 (PSN) (Decrypted) (20180429-070319).dat
+Unofficial - Sony - PlayStation 4 (PSN) (20221114-044800).dat
+Unofficial - Sony - PlayStation Portable (PSN) (Decrypted) (20210518-031944).dat
+Unofficial - Sony - PlayStation Portable (PSX2PSP) (20130318-035538).dat
+Unofficial - Sony - PlayStation Portable (UMD Music) (20221231-061512).dat
+Unofficial - Sony - PlayStation Portable (UMD Video) (20230114-092257).dat
+Unofficial - Sony - PlayStation Vita (BlackFinPSV) (20221015-091423).dat
+Unofficial - Sony - PlayStation Vita (BlackFinPSV) (#395+x002+z181).dat
+Unofficial - Sony - PlayStation Vita (NoNpDrm) (20221015-091423).dat
+Unofficial - Sony - PlayStation Vita (NoNpDrm) (#395+x002+z181).dat
+Unofficial - Sony - PlayStation Vita (PSVgameSD) (20221015-091423).dat
+Unofficial - Sony - PlayStation Vita (PSVgameSD) (#395+x002+z181).dat
+Unofficial - Sony - PlayStation Vita (VPK) (20221015-091423).dat
+Unofficial - Sony - PlayStation Vita (VPK) (#395+x002+z181).dat
+Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm) (20220715-105412).dat
+Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK) (20220715-105412).dat
+Unofficial - Video Game Digital OSTs (RAW) (20230105-084656).dat
+Unofficial - Video Game Documents (PDF) (20221123-054502).dat
+Unofficial - Video Game Magazine Scans (CBZ) (20220824-051032).dat
+Unofficial - Video Game Magazine Scans (PDF) (20220824-051032).dat
+Unofficial - Video Game Magazine Scans (RAW) (20220824-051032).dat
+Unofficial - Video Game Manual Scans (JPEG) (20221116-105355).dat
+Unofficial - Video Game Scans (RAW) (20221116-105216).dat
+VM Labs - NUON (Digital) (20220609-181308).dat
+VTech - CreatiVision (20120223-000000).dat
+VTech - Mobigo (20220207-083241).dat
+VTech - V.Smile (20221230-021727).dat
+Watara - Supervision (20230113-094442).dat
+Welback - Mega Duck (20220531-111927).dat
+Yamaha - Copera (20211125-171549).dat
+Zeebo - Zeebo (20190815-004208).dat
